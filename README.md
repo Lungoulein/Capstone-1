@@ -20,4 +20,5 @@ The Dashboard depicts that:
 
 ##### INSPIRATION FROM THIS PROJECT:
 This pursuit of the Project has opened up a new vista for me. It is fascinating to see how data comes to live in these beautiful charts that makes up the dashboard. I beleive it will do me a world of good in my personal and working life. It exercises the mind's logical cognition while grounding the analyser to solid facts.
+
 [Link to Linkedin](www.linkedin.com/in/lungoulein-touthang-911189175)
